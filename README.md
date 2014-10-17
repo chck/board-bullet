@@ -19,4 +19,5 @@ python bulletin-board-poster.py
 ```
 
 参考：
+http://gci.t.u-tokyo.ac.jp/tutorial/crawling/
 http://qiita.com/hnaohiro/items/44e06ed635281b4eed32
