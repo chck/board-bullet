@@ -9,6 +9,7 @@ class BulletinBoardPoster:
     _var = open("../API.yaml").read()
     _yaml = yaml.load(_var)
     self.dr = webdriver.Firefox()
+    #self.dr = webdriver.Chrome()
     if num==1:
       _url = _yaml["url_b100"]
       self.form_id = "comment-form"
