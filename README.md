@@ -12,6 +12,7 @@ Python 2.7.6
 pip install -r requirements.txt
 ```
 
+##Usage
 edit ../API.yaml
 
 ```
@@ -30,6 +31,7 @@ ruby 2.1.3
 bundle install --path vendor/bundle  --disable-shared-gems
 ```
 
+##Usage
 ```
 ruby bulletin-board-poster.rb
 ```
