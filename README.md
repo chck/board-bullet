@@ -1,4 +1,4 @@
-bulletin-board-poster
+board-bullet
 =====================
 指定掲示板に自動ポストしてくれる
 
